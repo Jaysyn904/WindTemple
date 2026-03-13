@@ -1,0 +1,117 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 52
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "Ring of Wizardry I"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 12801
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "The wearer's arcane spells per day are doubled for one specific spell level. A ring of wizardry I doubles 1st-level spells, a ring of wizardry II doubles 2nd-level spells, a ring of wizardry III doubles 3rd-level spells, and a ring of wizardry IV doubles 4th-level spells. Bonus spells from high ability scores or school specialization are not doubled. "
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ring of Wizardry I"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 5
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 22
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 13
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 102
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "RING_WIZARDRY001"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "ring_wizardry001"
+  },
+  "xModelPart1": {
+    "type": "word",
+    "value": 5
+  }
+}

@@ -1,0 +1,896 @@
+{
+  "__data_type": "UTC ",
+  "Appearance_Type": {
+    "type": "word",
+    "value": 365
+  },
+  "BodyBag": {
+    "type": "byte",
+    "value": 0
+  },
+  "Cha": {
+    "type": "byte",
+    "value": 14
+  },
+  "ChallengeRating": {
+    "type": "float",
+    "value": 6.0
+  },
+  "ClassList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 2,
+        "Class": {
+          "type": "int",
+          "value": 23
+        },
+        "ClassLevel": {
+          "type": "short",
+          "value": 1
+        }
+      }
+    ]
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Con": {
+    "type": "byte",
+    "value": 17
+  },
+  "Conversation": {
+    "type": "resref",
+    "value": ""
+  },
+  "CRAdjust": {
+    "type": "int",
+    "value": 0
+  },
+  "CurrentHitPoints": {
+    "type": "short",
+    "value": 5
+  },
+  "DecayTime": {
+    "type": "dword",
+    "value": 5000
+  },
+  "Deity": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Dex": {
+    "type": "byte",
+    "value": 12
+  },
+  "Disarmable": {
+    "type": "byte",
+    "value": 0
+  },
+  "Equip_ItemList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 16384,
+        "EquippedRes": {
+          "type": "resref",
+          "value": "nw_it_crewpsp005"
+        }
+      },
+      {
+        "__struct_id": 32768,
+        "EquippedRes": {
+          "type": "resref",
+          "value": "nw_it_crewpsp005"
+        }
+      },
+      {
+        "__struct_id": 131072,
+        "EquippedRes": {
+          "type": "resref",
+          "value": "prc_sum_lamhide"
+        }
+      }
+    ]
+  },
+  "FactionID": {
+    "type": "word",
+    "value": 2
+  },
+  "FeatList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 24
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 289
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 408
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 22
+        }
+      }
+    ]
+  },
+  "FirstName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Lammasu Companion"
+    }
+  },
+  "fortbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "Gender": {
+    "type": "byte",
+    "value": 4
+  },
+  "GoodEvil": {
+    "type": "byte",
+    "value": 50
+  },
+  "HitPoints": {
+    "type": "short",
+    "value": 5
+  },
+  "Int": {
+    "type": "byte",
+    "value": 16
+  },
+  "Interruptable": {
+    "type": "byte",
+    "value": 1
+  },
+  "IsImmortal": {
+    "type": "byte",
+    "value": 0
+  },
+  "IsPC": {
+    "type": "byte",
+    "value": 0
+  },
+  "LastName": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "LawfulChaotic": {
+    "type": "byte",
+    "value": 50
+  },
+  "Lootable": {
+    "type": "byte",
+    "value": 0
+  },
+  "MaxHitPoints": {
+    "type": "short",
+    "value": 8
+  },
+  "NaturalAC": {
+    "type": "byte",
+    "value": 9
+  },
+  "NoPermDeath": {
+    "type": "byte",
+    "value": 0
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 5
+  },
+  "PerceptionRange": {
+    "type": "byte",
+    "value": 11
+  },
+  "Phenotype": {
+    "type": "int",
+    "value": 0
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PortraitId": {
+    "type": "word",
+    "value": 621
+  },
+  "Race": {
+    "type": "byte",
+    "value": 19
+  },
+  "refbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "ScriptAttacked": {
+    "type": "resref",
+    "value": "prc_ai_fam_attck"
+  },
+  "ScriptDamaged": {
+    "type": "resref",
+    "value": "prc_ai_fam_damag"
+  },
+  "ScriptDeath": {
+    "type": "resref",
+    "value": "prc_ai_fam_death"
+  },
+  "ScriptDialogue": {
+    "type": "resref",
+    "value": "prc_ai_fam_conv"
+  },
+  "ScriptDisturbed": {
+    "type": "resref",
+    "value": "prc_ai_fam_distb"
+  },
+  "ScriptEndRound": {
+    "type": "resref",
+    "value": "prc_ai_fam_combt"
+  },
+  "ScriptHeartbeat": {
+    "type": "resref",
+    "value": "prc_ai_fam_heart"
+  },
+  "ScriptOnBlocked": {
+    "type": "resref",
+    "value": "prc_ai_fam_block"
+  },
+  "ScriptOnNotice": {
+    "type": "resref",
+    "value": "prc_ai_fam_percp"
+  },
+  "ScriptRested": {
+    "type": "resref",
+    "value": "prc_ai_fam_rest"
+  },
+  "ScriptSpawn": {
+    "type": "resref",
+    "value": "prc_ai_fam_spawn"
+  },
+  "ScriptSpellAt": {
+    "type": "resref",
+    "value": "prc_ai_fam_spell"
+  },
+  "ScriptUserDefine": {
+    "type": "resref",
+    "value": "prc_ai_fam_userd"
+  },
+  "SkillList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 13
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 13
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 13
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 4
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 15
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "SoundSetFile": {
+    "type": "word",
+    "value": 65535
+  },
+  "SpecAbilityList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 6
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 6
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 414
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 414
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 35
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 322
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 76
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 97
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 126
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 321
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 150
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 1
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 41
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 9
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 418
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 88
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 88
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 146
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 49
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 7
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      }
+    ]
+  },
+  "StartingPackage": {
+    "type": "byte",
+    "value": 85
+  },
+  "Str": {
+    "type": "byte",
+    "value": 23
+  },
+  "Subrace": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "prc_sum_lammasu"
+  },
+  "Tail_New": {
+    "type": "dword",
+    "value": 0
+  },
+  "TemplateList": {
+    "type": "list",
+    "value": []
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "prc_sum_lammasu"
+  },
+  "WalkRate": {
+    "type": "int",
+    "value": 7
+  },
+  "willbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "Wings_New": {
+    "type": "dword",
+    "value": 0
+  },
+  "Wis": {
+    "type": "byte",
+    "value": 17
+  }
+}

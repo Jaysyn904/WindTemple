@@ -1,0 +1,1060 @@
+{
+  "__data_type": "UTC ",
+  "Appearance_Head": {
+    "type": "byte",
+    "value": 8
+  },
+  "Appearance_Type": {
+    "type": "word",
+    "value": 3
+  },
+  "ArmorPart_RFoot": {
+    "type": "byte",
+    "value": 1
+  },
+  "BodyBag": {
+    "type": "byte",
+    "value": 0
+  },
+  "BodyPart_Belt": {
+    "type": "byte",
+    "value": 0
+  },
+  "BodyPart_LBicep": {
+    "type": "byte",
+    "value": 1
+  },
+  "BodyPart_LFArm": {
+    "type": "byte",
+    "value": 1
+  },
+  "BodyPart_LFoot": {
+    "type": "byte",
+    "value": 1
+  },
+  "BodyPart_LHand": {
+    "type": "byte",
+    "value": 1
+  },
+  "BodyPart_LShin": {
+    "type": "byte",
+    "value": 1
+  },
+  "BodyPart_LShoul": {
+    "type": "byte",
+    "value": 0
+  },
+  "BodyPart_LThigh": {
+    "type": "byte",
+    "value": 1
+  },
+  "BodyPart_Neck": {
+    "type": "byte",
+    "value": 1
+  },
+  "BodyPart_Pelvis": {
+    "type": "byte",
+    "value": 1
+  },
+  "BodyPart_RBicep": {
+    "type": "byte",
+    "value": 1
+  },
+  "BodyPart_RFArm": {
+    "type": "byte",
+    "value": 1
+  },
+  "BodyPart_RHand": {
+    "type": "byte",
+    "value": 1
+  },
+  "BodyPart_RShin": {
+    "type": "byte",
+    "value": 1
+  },
+  "BodyPart_RShoul": {
+    "type": "byte",
+    "value": 0
+  },
+  "BodyPart_RThigh": {
+    "type": "byte",
+    "value": 1
+  },
+  "BodyPart_Torso": {
+    "type": "byte",
+    "value": 1
+  },
+  "Cha": {
+    "type": "byte",
+    "value": 16
+  },
+  "ChallengeRating": {
+    "type": "float",
+    "value": 10.0
+  },
+  "ClassList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 2,
+        "Class": {
+          "type": "int",
+          "value": 17
+        },
+        "ClassLevel": {
+          "type": "short",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 2,
+        "Class": {
+          "type": "int",
+          "value": 8
+        },
+        "ClassLevel": {
+          "type": "short",
+          "value": 8
+        }
+      }
+    ]
+  },
+  "Color_Hair": {
+    "type": "byte",
+    "value": 9
+  },
+  "Color_Skin": {
+    "type": "byte",
+    "value": 118
+  },
+  "Color_Tattoo1": {
+    "type": "byte",
+    "value": 175
+  },
+  "Color_Tattoo2": {
+    "type": "byte",
+    "value": 49
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Con": {
+    "type": "byte",
+    "value": 12
+  },
+  "Conversation": {
+    "type": "resref",
+    "value": ""
+  },
+  "CRAdjust": {
+    "type": "int",
+    "value": 0
+  },
+  "CurrentHitPoints": {
+    "type": "short",
+    "value": 54
+  },
+  "DecayTime": {
+    "type": "dword",
+    "value": 5000
+  },
+  "Deity": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "id": 53076
+    }
+  },
+  "Dex": {
+    "type": "byte",
+    "value": 18
+  },
+  "Disarmable": {
+    "type": "byte",
+    "value": 0
+  },
+  "Equip_ItemList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 2,
+        "EquippedRes": {
+          "type": "resref",
+          "value": "prc_amltlt_pixie"
+        }
+      },
+      {
+        "__struct_id": 16,
+        "EquippedRes": {
+          "type": "resref",
+          "value": "nw_wbwmsh002"
+        }
+      },
+      {
+        "__struct_id": 2048,
+        "EquippedRes": {
+          "type": "resref",
+          "value": "prc_wamma_sleep"
+        }
+      },
+      {
+        "__struct_id": 131072,
+        "EquippedRes": {
+          "type": "resref",
+          "value": "prc_pixie_hide01"
+        }
+      }
+    ]
+  },
+  "FactionID": {
+    "type": "word",
+    "value": 2
+  },
+  "FeatList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 3
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 10
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 206
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 25990
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 25991
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 27
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 30
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 345
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 346
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 347
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 4706
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 195
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 251
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 42
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 102
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 289
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 50
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 46
+        }
+      }
+    ]
+  },
+  "FirstName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Summoned Pixie",
+      "id": 6005
+    }
+  },
+  "fortbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "Gender": {
+    "type": "byte",
+    "value": 1
+  },
+  "GoodEvil": {
+    "type": "byte",
+    "value": 100
+  },
+  "HitPoints": {
+    "type": "short",
+    "value": 54
+  },
+  "Int": {
+    "type": "byte",
+    "value": 16
+  },
+  "Interruptable": {
+    "type": "byte",
+    "value": 1
+  },
+  "IsImmortal": {
+    "type": "byte",
+    "value": 0
+  },
+  "IsPC": {
+    "type": "byte",
+    "value": 0
+  },
+  "ItemList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "InventoryRes": {
+          "type": "resref",
+          "value": "prc_wamma_sleep"
+        },
+        "Repos_PosX": {
+          "type": "word",
+          "value": 0
+        },
+        "Repos_Posy": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 1,
+        "InventoryRes": {
+          "type": "resref",
+          "value": "nw_wswmss002"
+        },
+        "Repos_PosX": {
+          "type": "word",
+          "value": 1
+        },
+        "Repos_Posy": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 2,
+        "InventoryRes": {
+          "type": "resref",
+          "value": "prc_wamma_sleep"
+        },
+        "Repos_PosX": {
+          "type": "word",
+          "value": 2
+        },
+        "Repos_Posy": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "LastName": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "LawfulChaotic": {
+    "type": "byte",
+    "value": 50
+  },
+  "Lootable": {
+    "type": "byte",
+    "value": 0
+  },
+  "MaxHitPoints": {
+    "type": "short",
+    "value": 63
+  },
+  "NaturalAC": {
+    "type": "byte",
+    "value": 1
+  },
+  "NoPermDeath": {
+    "type": "byte",
+    "value": 0
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 4
+  },
+  "PerceptionRange": {
+    "type": "byte",
+    "value": 11
+  },
+  "Phenotype": {
+    "type": "int",
+    "value": 0
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PortraitId": {
+    "type": "word",
+    "value": 559
+  },
+  "Race": {
+    "type": "byte",
+    "value": 17
+  },
+  "refbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "ScriptAttacked": {
+    "type": "resref",
+    "value": "prc_ai_sum_attck"
+  },
+  "ScriptDamaged": {
+    "type": "resref",
+    "value": "prc_ai_sum_damag"
+  },
+  "ScriptDeath": {
+    "type": "resref",
+    "value": "prc_ai_sum_death"
+  },
+  "ScriptDialogue": {
+    "type": "resref",
+    "value": "prc_ai_sum_conv"
+  },
+  "ScriptDisturbed": {
+    "type": "resref",
+    "value": "prc_ai_sum_distb"
+  },
+  "ScriptEndRound": {
+    "type": "resref",
+    "value": "prc_ai_sum_combt"
+  },
+  "ScriptHeartbeat": {
+    "type": "resref",
+    "value": "prc_ai_sum_heart"
+  },
+  "ScriptOnBlocked": {
+    "type": "resref",
+    "value": "prc_ai_sum_block"
+  },
+  "ScriptOnNotice": {
+    "type": "resref",
+    "value": "prc_ai_sum_percp"
+  },
+  "ScriptRested": {
+    "type": "resref",
+    "value": "prc_ai_sum_rest"
+  },
+  "ScriptSpawn": {
+    "type": "resref",
+    "value": "prc_ai_sum_spawn"
+  },
+  "ScriptSpellAt": {
+    "type": "resref",
+    "value": "prc_ai_sum_spell"
+  },
+  "ScriptUserDefine": {
+    "type": "resref",
+    "value": "prc_ai_sum_userd"
+  },
+  "SkillList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 12
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 12
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 12
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 12
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 12
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 12
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 6
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 12
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 6
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 12
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 12
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 12
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "SoundSetFile": {
+    "type": "word",
+    "value": 37
+  },
+  "SpecAbilityList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 214
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 0
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 16496
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 8
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 41
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 8
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 53
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 8
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 799
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 0
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 799
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 0
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 799
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 0
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      }
+    ]
+  },
+  "StartingPackage": {
+    "type": "byte",
+    "value": 60
+  },
+  "Str": {
+    "type": "byte",
+    "value": 8
+  },
+  "Subrace": {
+    "type": "cexostring",
+    "value": "Fey"
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "PRC_S_PIXIE001"
+  },
+  "Tail_New": {
+    "type": "dword",
+    "value": 0
+  },
+  "TemplateList": {
+    "type": "list",
+    "value": []
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "prc_s_pixie001"
+  },
+  "WalkRate": {
+    "type": "int",
+    "value": 5
+  },
+  "willbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "Wings_New": {
+    "type": "dword",
+    "value": 5
+  },
+  "Wis": {
+    "type": "byte",
+    "value": 15
+  },
+  "xAppearance_Head": {
+    "type": "word",
+    "value": 8
+  },
+  "xArmorPart_RFoot": {
+    "type": "word",
+    "value": 1
+  },
+  "xBodyPart_Belt": {
+    "type": "word",
+    "value": 0
+  },
+  "xBodyPart_LBicep": {
+    "type": "word",
+    "value": 1
+  },
+  "xBodyPart_LFArm": {
+    "type": "word",
+    "value": 1
+  },
+  "xBodyPart_LFoot": {
+    "type": "word",
+    "value": 1
+  },
+  "xBodyPart_LHand": {
+    "type": "word",
+    "value": 1
+  },
+  "xBodyPart_LShin": {
+    "type": "word",
+    "value": 1
+  },
+  "xBodyPart_LShoul": {
+    "type": "word",
+    "value": 0
+  },
+  "xBodyPart_LThigh": {
+    "type": "word",
+    "value": 1
+  },
+  "xBodyPart_Neck": {
+    "type": "word",
+    "value": 1
+  },
+  "xBodyPart_Pelvis": {
+    "type": "word",
+    "value": 1
+  },
+  "xBodyPart_RBicep": {
+    "type": "word",
+    "value": 1
+  },
+  "xBodyPart_RFArm": {
+    "type": "word",
+    "value": 1
+  },
+  "xBodyPart_RHand": {
+    "type": "word",
+    "value": 1
+  },
+  "xBodyPart_RShin": {
+    "type": "word",
+    "value": 1
+  },
+  "xBodyPart_RShoul": {
+    "type": "word",
+    "value": 0
+  },
+  "xBodyPart_RThigh": {
+    "type": "word",
+    "value": 1
+  },
+  "xBodyPart_Torso": {
+    "type": "word",
+    "value": 1
+  }
+}
